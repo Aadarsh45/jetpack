@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jetpack Compose</string>
+    <string name="title_activity_lecture2">lecture2</string>
+    <string name="title_activity_text_styling">TextStyling</string>
+    <string name="title_activity_adding_text_to_ui">Adding_text_to_ui</string>
+    <string name="title_activity_textvaration">textvaration</string>
+    <string name="title_activity_createa_postcard">CreateaPostcard</string>
+</resources>
