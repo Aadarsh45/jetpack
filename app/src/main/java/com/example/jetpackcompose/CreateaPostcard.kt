@@ -25,7 +25,7 @@ class CreateaPostcard : ComponentActivity() {
                       ,contentAlignment = Alignment.Center){
                      MyCustumCard(
                          modifier = Modifier.fillMaxWidth(0.8f),
-                         image = R.drawable.p2,
+                         image = R.drawable.pic2,
                          tittle = "A Boy",
                          text = " The dp array is used to store the maximum sum of non-adjacent elements up to each index.",
                          publisher = Publisher(R.drawable.logo,"Aadarsh","Android Developer")

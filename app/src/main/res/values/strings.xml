@@ -5,4 +5,10 @@
     <string name="title_activity_adding_text_to_ui">Adding_text_to_ui</string>
     <string name="title_activity_textvaration">textvaration</string>
     <string name="title_activity_createa_postcard">CreateaPostcard</string>
+    <string name="title_activity_textfield">Textfield</string>
+    <string name="title_activity_login">login</string>
+    <string name="app_logo">App Logo\n</string>
+    <string name="tolet">To Let\n</string>
+    <string name="findhouse">Find Your Home</string>
+    <string name="login">Login\n</string>
 </resources>
